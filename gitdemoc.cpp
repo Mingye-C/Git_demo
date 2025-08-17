@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     cout << "Hello, VS Code C++! -version1" << endl;  // 输出文字并换行
-    cout<<"version2";
+    cout<<" -version2";
+    cout<<" version -terminal";
     return 0;  // 程序正常结束
 }
